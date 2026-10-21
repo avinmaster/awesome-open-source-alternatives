@@ -25,6 +25,7 @@ Curating the best open-source alternatives for famous apps.
 - [Instagram](#instagram)
 - [Npm](#npm)
 - [Netlify](#netlify)
+- [NotebookLM](#notebooklm)
 - [Quizlet](#quizlet)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
@@ -149,6 +150,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Netlify](https://netlify.com)
 - [StaticDeploy](https://github.com/staticdeploy)
+
+### [NotebookLM](https://notebooklm.google.com/)
+- [BiliMind Desktop](https://github.com/Odilient/bilimind-desktop)
 
 ### [Postman](https://www.postman.com/)
 - [Postwoman](https://github.com/liyasthomas/postwoman)
